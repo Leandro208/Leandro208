@@ -13,4 +13,6 @@
 <a href="https://linkedin.com/in/leandro-barbosa-0072a6210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leandro-barbosa-0072a6210" height="30" width="40" /></a> 
 <a href="https://instagram.com/leandro_208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leandro_208" height="30" width="40" /></a>
 <a href="https://t.me/Leandro208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="leandro208" height="30" width="40" /></a>
+<a href="https://codepen.io/leandro208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="leandro208" height="30" width="40" /></a>
 </p>
+
