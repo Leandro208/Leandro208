@@ -8,11 +8,6 @@
 
 
 <h3 align="left">Redes sociais:</h3>
-<p align="left">
-<a href="https://twitter.com/ruben_filipe07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ruben_filipe07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leandro-barbosa-0072a6210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leandro-barbosa-0072a6210" height="30" width="40" /></a> 
-<a href="https://instagram.com/leandro_208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leandro_208" height="30" width="40" /></a>
-<a href="https://t.me/Leandro208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="leandro208" height="30" width="40" /></a>
-<a href="https://codepen.io/leandro208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="leandro208" height="30" width="40" /></a>
-</p>
 
+
+[ ![](https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://linkedin.com/in/leandro-barbosa-0072a6210)  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leandro_208) [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/leandro208) [![](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Leandro208)
