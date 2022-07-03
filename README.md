@@ -20,7 +20,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" title = "HEROKU"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code>
 
-  
 ##
  
 <h3 align="left">Redes sociais:</h3>
@@ -32,11 +31,10 @@
 <div >
   <a href="https://github.com/leandro208">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro208&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro208&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/leandro208/leandro208/blob/output/github-contribution-grid-snake.svg)
 
- <p align="center">
+<p align="center">
 <img src="https://badges.pufler.dev/visits/Leandro208/Leandro208?color=blue&style=for-the-badge&logo=appveyor"/>
 </p>
