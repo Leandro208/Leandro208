@@ -2,24 +2,29 @@
 ![img](https://user-images.githubusercontent.com/81039247/176794026-5f2fee5b-1671-4871-80e8-6330eae5331c.png)
 
 
-### 🖥️ Tecnologias e Ferramentas: 
-
+### 🖥️ FrontEnd: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title = "BOOTSTRAP"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESQL"/></code>
-<code><img width="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title = "SPRING"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" title = "MATERIALIZE"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" title = "HEROKU"/></code>
+
+### 🖥️ BackEnd: 
+
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title = "SPRING"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code>
 
+### 🖥️ Version Control: 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></code>
+### 🖥️ Databases: 
+
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESQL"/></code>
 ##
  
 <h3 align="left">Redes sociais:</h3>
@@ -35,6 +40,3 @@
 
 ![Snake animation](https://github.com/leandro208/leandro208/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-<img src="https://badges.pufler.dev/visits/Leandro208/Leandro208?color=blue&style=for-the-badge&logo=appveyor"/>
-</p>
