@@ -9,14 +9,12 @@
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" title = "MATERIALIZE"/></code>
 
 ### 🖥️ BackEnd: 
 
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title = "SPRING"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code>
 
 ### 🖥️ Version Control: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
