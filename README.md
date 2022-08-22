@@ -33,7 +33,7 @@
 
 <div >
   <a href="https://github.com/leandro208">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro208&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro208&layout=compact&langs_count=7&theme=light"/>
 </div>
 
 ![Snake animation](https://github.com/leandro208/leandro208/blob/output/github-contribution-grid-snake.svg)
