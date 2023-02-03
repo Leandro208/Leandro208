@@ -5,9 +5,9 @@
     width="30px">
   <br />
   Welcome to my Profile!!!
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=Leandro208.Leandro208"
-    alt="visitors">
+  
+  [![](https://visitcount.itsvg.in/api?id=LEANDRO208&icon=2&color=0)](https://visitcount.itsvg.in)
+  
 </h1>
 
 <!--*************** Front cover ***************-->
@@ -39,12 +39,15 @@
   
 [ ![](https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/leandrobarbosa208/)  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leandro_208)
 
-##
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LEANDRO208&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LEANDRO208&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LEANDRO208&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div >
-  <a href="https://github.com/leandro208">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro208&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ![Snake animation](https://github.com/leandro208/leandro208/blob/output/github-contribution-grid-snake.svg)
 
